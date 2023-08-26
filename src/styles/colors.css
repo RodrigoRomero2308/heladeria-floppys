@@ -1,0 +1,26 @@
+/* Color Theme Swatches in Hex */
+.Heladeria-Floppys-1-hex { color: #F5B773; }
+.Heladeria-Floppys-2-hex { color: #89F594; }
+.Heladeria-Floppys-3-hex { color: #F48C71; }
+.Heladeria-Floppys-4-hex { color: #58D2F5; }
+.Heladeria-Floppys-5-hex { color: #F56492; }
+
+/* Color Theme Swatches in RGBA */
+.Heladeria-Floppys-1-rgba { color: rgba(245, 183, 115, 1); }
+.Heladeria-Floppys-2-rgba { color: rgba(137, 245, 148, 1); }
+.Heladeria-Floppys-3-rgba { color: rgba(244, 140, 113, 1); }
+.Heladeria-Floppys-4-rgba { color: rgba(88, 210, 245, 1); }
+.Heladeria-Floppys-5-rgba { color: rgba(245, 100, 146, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Heladeria-Floppys-1-hsla { color: hsla(31, 86, 70, 1); }
+.Heladeria-Floppys-2-hsla { color: hsla(126, 84, 74, 1); }
+.Heladeria-Floppys-3-hsla { color: hsla(12, 85, 70, 1); }
+.Heladeria-Floppys-4-hsla { color: hsla(193, 88, 65, 1); }
+.Heladeria-Floppys-5-hsla { color: hsla(340, 87, 67, 1); }
+
+:root {
+  --primary: #F48C71;
+  --primary-rgb: 244, 140, 113;
+  --primary-hsl: 12, 85, 70;
+}
